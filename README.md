@@ -2,10 +2,8 @@
 
 I'm Miranda, and welcome to my portfolio!
 
-I love building software that aligns with my core value—warmth. 🌱 My curiosity has always drawn me to sentiment analysis, synchronization, and parallel processing with various media types. Currently, I'm exploring collaboration and communication software to social engineer teamwork and workflows.
-
 <details>
-<summary>What was my professional experience at <a href="https://github.com/Resound-fm">Resound</a> (startup) 🎵 like?</summary>
+<summary>What was my software engineer experience at <a href="https://github.com/Resound-fm">Resound</a> (startup) 🎵 like?</summary>
 <br>
 I had 1.1 years of experience at Resound, and it was pretty intensive. My time there is so valuable to me because I learned a lot and challenged myself with almost every task. For some context...  
 
